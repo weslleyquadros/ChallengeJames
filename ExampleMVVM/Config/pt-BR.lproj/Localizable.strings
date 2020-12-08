@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  ExampleMVVM
+
+  Created by Weslley Quadros on 08/12/20.
+  Copyright © 2020 Weslley Quadros. All rights reserved.
+*/
+
+//MARK: - General
+"buttonTryAgain" = "Tentar novamente";
+"buttonCancel" = "Cancelar";
+"searchBarPlaceholder" = "Buscar personagem";
+"messageError" = "Algo deu errado! :(\n %@ - code: %@";
+"emptyLabel" = "Não foi encontrado nenhum personagem. :(";
+
+//MARK: - List Characters
+"titleHome" = "Personagens";
+"labelLocation" = "Última localização:";
+
+//MARK: - List Favorites
+"titleFavorite" = "Favoritos";
+"favoriteLabel" = "❥ Favorito";
+"labelLocationFav" = "Última localização:";
+
+//MARK: - Details
+"titleDetails" = "Detalhes";
+"statusTitleLabel" = "Status";
+"labelDatailsEpisode" = "Primeiro episódio:";
+"labelDetaisLocation" = "Última localização:";
+"buttonSeeMore" = "Ver mais";
+
+//MARK: - Status Enum
+"statusAlive" = "Vivo";
+"statusDead" = "Morto";
+"statusDefault" = "Desconhecido";
+
+//MARK: - Species
+"speciesHuman" = "Humano";
+"speciesAlien" = "Alienígena";
+
+//MARK: - ListEpisodes
+"titleListEpisodes" = "Lista de Episódios";
+"cellEpisodeCode" = "Episódio";
+"cellEpisodeName" = "Nome";
+"leftButtonBar" = "Fechar";
