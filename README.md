@@ -1,4 +1,4 @@
-# ChallengeJames
+# ExampleMVVM
  The challenge is to consult and list https://rickandmortyapi.com/
 
 - List of characters and locations, with text and images.
@@ -38,4 +38,4 @@ To perform UI tests, open the test file and run the function you want to test an
 
 Weslley Quadros – [My LinkedIn](https://www.linkedin.com/in/weslleyquadros/) – wellquadros16@gmail.com
 
-[https://github.com/weslleyquadros/ChallengeJames](https://github.com/dbader/)
+[https://github.com/weslleyquadros/ExampleMVVM](https://github.com/dbader/)
